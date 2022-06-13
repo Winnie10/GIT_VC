@@ -1,2 +1,3 @@
 test file
 A modification from user 1
+A modification from user 2
