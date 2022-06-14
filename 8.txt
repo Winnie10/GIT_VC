@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world
 hello from 8
+=======
+hello world
+>>>>>>> 66f1db6ac1cbabdbbde1731103e13aa712f58039
